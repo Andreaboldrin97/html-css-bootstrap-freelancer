@@ -22,10 +22,21 @@ a{
     color: var(--bs-green);
 }
 .ms_social{
-    border: 1px solid black;
-    width: 40px;
-    height: 40px;
+    border: 1px solid white;
+    width: 30px;
+    height: 30px;
 }
 .ms_social i{
     align-self: center;
+}
+/* FOOTER */
+
+footer{
+    color: white;
+}
+.ms_section_gray_blu{
+    background-color: rgb(48, 74, 94);
+}
+.ms_section_black_blue{
+    background-color: rgb(37, 54, 70);
 }
