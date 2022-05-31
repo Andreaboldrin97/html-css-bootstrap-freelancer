@@ -1,0 +1,31 @@
+.ms_section_green{
+    background-color: var(--bs-teal);
+    color: white;
+    padding: 15px 0;
+}
+.ms_section_green .ms_star::after,.ms_section_green .ms_star::before{
+    background-color: white;
+}
+.ms_star::after, .ms_star::before{
+    content: "";
+    display: inline-block;
+    width: 12%;
+    height: 4px;
+    background-color: var(--bs-black);
+    vertical-align: middle;
+}
+img{
+    width: 100%;
+}
+a{
+    text-decoration: none;
+    color: var(--bs-green);
+}
+.ms_social{
+    border: 1px solid black;
+    width: 40px;
+    height: 40px;
+}
+.ms_social i{
+    align-self: center;
+}
