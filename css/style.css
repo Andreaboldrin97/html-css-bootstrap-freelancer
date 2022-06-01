@@ -10,6 +10,9 @@
 .ms_icon_tgg{
     filter: invert(1);
 }
+.ms_text_tasks{
+    font-size: 20px;
+}
 /* MAIN */
 
 .ms_section_green{
