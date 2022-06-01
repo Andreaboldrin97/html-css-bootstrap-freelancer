@@ -5,6 +5,9 @@
 .nav-item  li a{
     color: white;
 }
+.ms_icon_tgg{
+    filter: invert(1);
+}
 /* MAIN */
 
 .ms_section_green{
