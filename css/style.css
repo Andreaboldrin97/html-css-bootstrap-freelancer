@@ -1,9 +1,11 @@
 /* HEADER */
 .navbar a{
     color: white;
+    cursor: pointer;
 }
 .nav-item  li a{
     color: white;
+    cursor: pointer;
 }
 .ms_icon_tgg{
     filter: invert(1);
@@ -58,6 +60,7 @@ footer{
     background-color: rgb(37, 54, 70);
 }
 .ms_social i{
+    cursor: pointer;
     position: absolute;
     top: 50%;
     left: 50%;
